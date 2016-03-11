@@ -1,10 +1,11 @@
+
 body{
+  background-color: #Fe7701;
     text-align: center;
     margin: 0px auto;
 }
 .background{
     margin: 0px auto;
-    background-color: #Fe7701;
     width: 1260px;
     height: 1340px;
     position: relative;
@@ -178,12 +179,14 @@ section{
   padding-left: 0px;
   margin: 0px auto;
   margin-left: 201px;
+  list-style: none;
 }
 
 .ul_2{
   padding-left: 0px;
   margin: 0px auto;
   margin-left: 30px;
+    list-style: none;
 }
 .ic{
   float: left;
@@ -310,11 +313,12 @@ section{
   width: 270px;
   border: 1px solid #a54e03;
   float: left;
+  border-bottom: 0px;
 }
 
 footer{
   background-color: #404040;
-  width: 1260px;
+  width: 100%;
   height: 50px;
   float: left;
   margin-top: 20px;
